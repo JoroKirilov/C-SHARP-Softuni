@@ -1,1 +1,2 @@
-hello github new diff second beta
+hello github 
+v.1.6
