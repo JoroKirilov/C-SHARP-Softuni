@@ -1,6 +1,5 @@
-hello github , i am a new in this.
-Let Geoegi go to fix this.
-
+Hello github , I am a new in this.
+Let Geoegi fix this.
 
 v.1.62
 
