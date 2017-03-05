@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\SetAndDict\Population\bin\Debug\Population.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\SetAndDict\Population\bin\Debug\Population.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\SetAndDict\Population\bin\Debug\Population.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\SetAndDict\Population\obj\Debug\Population.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\SetAndDict\Population\obj\Debug\Population.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\SetAndDict\Population\obj\Debug\Population.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\Drawing\Drawing\bin\Debug\Drawing.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\Drawing\Drawing\bin\Debug\Drawing.exe
+c:\users\pc\documents\visual studio 2013\Projects\Drawing\Drawing\bin\Debug\Drawing.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Drawing\Drawing\obj\Debug\CrismasTree.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\Drawing\Drawing\obj\Debug\Drawing.exe
+c:\users\pc\documents\visual studio 2013\Projects\Drawing\Drawing\obj\Debug\Drawing.pdb

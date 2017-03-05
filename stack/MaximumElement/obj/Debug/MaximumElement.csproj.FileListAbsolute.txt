@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\stack\MaximumElement\bin\Debug\MaximumElement.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\stack\MaximumElement\bin\Debug\MaximumElement.exe
+C:\Users\PC\documents\visual studio 2013\Projects\stack\MaximumElement\bin\Debug\MaximumElement.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\stack\MaximumElement\obj\Debug\MaximumElement.exe
+C:\Users\PC\documents\visual studio 2013\Projects\stack\MaximumElement\obj\Debug\MaximumElement.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\stack\MaximumElement\obj\Debug\MaximumElement.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\test\bin\Debug\test.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\test\bin\Debug\test.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\test\bin\Debug\test.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\test\obj\Debug\test.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\test\obj\Debug\test.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\ProspectInHospitality\bin\Debug\ProspectInHospitality.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\ProspectInHospitality\obj\Debug\ProspectInHospitality.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringProcessing\bin\Debug\StringProcessing.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringProcessing\bin\Debug\StringProcessing.exe
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringProcessing\bin\Debug\StringProcessing.pdb
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringProcessing\obj\Debug\StringProcessing.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringProcessing\obj\Debug\StringProcessing.exe
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringProcessing\obj\Debug\StringProcessing.pdb

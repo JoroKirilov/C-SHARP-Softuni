@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\PhoneBook\obj\Debug\PhoneBook.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\DictText\bin\Debug\DictText.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\DictText\bin\Debug\DictText.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\DictText\bin\Debug\DictText.pdb
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\DictText\obj\Debug\DictText.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\DictText\obj\Debug\DictText.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\DictText\obj\Debug\DictText.pdb

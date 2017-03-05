@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2013\Projects\StringProcessing\NumberToNBase\bin\Debug\NumberToNBase.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\StringProcessing\NumberToNBase\bin\Debug\NumberToNBase.exe
+C:\Users\PC\documents\visual studio 2013\Projects\StringProcessing\NumberToNBase\bin\Debug\NumberToNBase.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\StringProcessing\NumberToNBase\obj\Debug\NumberToNBase.exe
+C:\Users\PC\documents\visual studio 2013\Projects\StringProcessing\NumberToNBase\obj\Debug\NumberToNBase.pdb

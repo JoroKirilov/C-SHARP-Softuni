@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\LocalElections\bin\Debug\LocalElections.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\LocalElections\bin\Debug\LocalElections.exe
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\LocalElections\bin\Debug\LocalElections.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\LocalElections\obj\Debug\BaiIvan.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\LocalElections\obj\Debug\LocalElections.exe
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\LocalElections\obj\Debug\LocalElections.pdb

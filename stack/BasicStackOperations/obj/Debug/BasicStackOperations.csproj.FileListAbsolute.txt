@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\stack\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\stack\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+C:\Users\PC\documents\visual studio 2013\Projects\stack\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\stack\BasicStackOperations\obj\Debug\BasicStackOperations.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\stack\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+C:\Users\PC\documents\visual studio 2013\Projects\stack\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

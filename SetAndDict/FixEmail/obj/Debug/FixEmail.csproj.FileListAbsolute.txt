@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\FixEmail\bin\Debug\FixEmail.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\FixEmail\bin\Debug\FixEmail.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\FixEmail\bin\Debug\FixEmail.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\FixEmail\obj\Debug\FixEmail.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\FixEmail\obj\Debug\FixEmail.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\FixEmail\obj\Debug\FixEmail.pdb

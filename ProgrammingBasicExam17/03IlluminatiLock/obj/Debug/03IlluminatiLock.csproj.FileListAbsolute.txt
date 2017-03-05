@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03IlluminatiLock\bin\Debug\03IlluminatiLock.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03IlluminatiLock\bin\Debug\03IlluminatiLock.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03IlluminatiLock\bin\Debug\03IlluminatiLock.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03IlluminatiLock\obj\Debug\03IlluminatiLock.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03IlluminatiLock\obj\Debug\03IlluminatiLock.pdb

@@ -1,0 +1,6 @@
+c:\Users\PC\documents\visual studio 2013\Projects\Drawing\Tower\bin\Debug\Tower.exe.config
+c:\Users\PC\documents\visual studio 2013\Projects\Drawing\Tower\bin\Debug\Tower.exe
+c:\Users\PC\documents\visual studio 2013\Projects\Drawing\Tower\bin\Debug\Tower.pdb
+c:\Users\PC\documents\visual studio 2013\Projects\Drawing\Tower\obj\Debug\Tower.csprojResolveAssemblyReference.cache
+c:\Users\PC\documents\visual studio 2013\Projects\Drawing\Tower\obj\Debug\Tower.exe
+c:\Users\PC\documents\visual studio 2013\Projects\Drawing\Tower\obj\Debug\Tower.pdb

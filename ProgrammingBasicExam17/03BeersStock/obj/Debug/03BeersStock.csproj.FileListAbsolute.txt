@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03BeersStock\bin\Debug\03BeersStock.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03BeersStock\bin\Debug\03BeersStock.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03BeersStock\bin\Debug\03BeersStock.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03BeersStock\obj\Debug\03BeersStock.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03BeersStock\obj\Debug\03BeersStock.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\03BeersStock\obj\Debug\03BeersStock.pdb

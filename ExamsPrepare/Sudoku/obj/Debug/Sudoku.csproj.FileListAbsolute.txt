@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\ExamsPrepare\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache

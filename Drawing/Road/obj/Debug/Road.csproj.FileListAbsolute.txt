@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Road\bin\Debug\Road.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Road\bin\Debug\Road.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Road\bin\Debug\Road.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Road\obj\Debug\Road.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Road\obj\Debug\Road.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Road\obj\Debug\Road.csprojResolveAssemblyReference.cache

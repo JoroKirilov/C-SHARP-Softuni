@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\UserIpMessage\bin\Debug\UserIpMessage.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\UserIpMessage\bin\Debug\UserIpMessage.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\UserIpMessage\bin\Debug\UserIpMessage.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\UserIpMessage\obj\Debug\UserIpMessage.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\UserIpMessage\obj\Debug\UserIpMessage.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\UserIpMessage\obj\Debug\UserIpMessage.pdb

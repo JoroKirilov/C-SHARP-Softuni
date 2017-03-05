@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\TrifonDreamItem\bin\Debug\TrifonDreamItem.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\TrifonDreamItem\bin\Debug\TrifonDreamItem.exe
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\TrifonDreamItem\bin\Debug\TrifonDreamItem.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\TrifonDreamItem\obj\Debug\TrifonDreamItem.exe
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\TrifonDreamItem\obj\Debug\TrifonDreamItem.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Solution1\TrifonDreamItem\obj\Debug\TrifonDreamItem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\01CakeTycoon\bin\Debug\01CakeTycoon.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\01CakeTycoon\bin\Debug\01CakeTycoon.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\01CakeTycoon\bin\Debug\01CakeTycoon.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\01CakeTycoon\obj\Debug\01CakeTycoon.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\01CakeTycoon\obj\Debug\01CakeTycoon.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\01CakeTycoon\obj\Debug\01CakeTycoon.pdb

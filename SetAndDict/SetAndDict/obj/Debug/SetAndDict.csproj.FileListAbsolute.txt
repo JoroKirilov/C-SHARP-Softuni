@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetAndDict\bin\Debug\SetAndDict.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetAndDict\bin\Debug\SetAndDict.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetAndDict\bin\Debug\SetAndDict.pdb
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetAndDict\obj\Debug\SetAndDict.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetAndDict\obj\Debug\SetAndDict.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetAndDict\obj\Debug\SetAndDict.pdb

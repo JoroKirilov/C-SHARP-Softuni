@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\ConsoleApplication1\obj\Debug\LogAggregator.csprojResolveAssemblyReference.cache

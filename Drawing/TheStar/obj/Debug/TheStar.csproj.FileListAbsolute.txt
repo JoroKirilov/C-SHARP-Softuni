@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\TheStar\bin\Debug\TheStar.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\TheStar\bin\Debug\TheStar.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\TheStar\bin\Debug\TheStar.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\TheStar\obj\Debug\TheStar.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\TheStar\obj\Debug\TheStar.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\TheStar\obj\Debug\TheStar.pdb

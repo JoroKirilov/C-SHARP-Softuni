@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringTo20\bin\Debug\StringTo20.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringTo20\bin\Debug\StringTo20.exe
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringTo20\bin\Debug\StringTo20.pdb
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringTo20\obj\Debug\StringTo20.exe
+c:\users\pc\documents\visual studio 2013\Projects\StringProcessing\StringTo20\obj\Debug\StringTo20.pdb

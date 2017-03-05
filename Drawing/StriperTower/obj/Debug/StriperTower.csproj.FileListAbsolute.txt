@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\StriperTower\bin\Debug\StriperTower.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\StriperTower\bin\Debug\StriperTower.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\StriperTower\bin\Debug\StriperTower.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\StriperTower\obj\Debug\StriperTower.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\StriperTower\obj\Debug\StriperTower.pdb

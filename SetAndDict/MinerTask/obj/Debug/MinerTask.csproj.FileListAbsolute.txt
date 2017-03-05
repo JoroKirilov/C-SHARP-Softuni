@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\MinerTask\bin\Debug\MinerTask.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\MinerTask\bin\Debug\MinerTask.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\MinerTask\bin\Debug\MinerTask.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\MinerTask\obj\Debug\MinerTask.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\MinerTask\obj\Debug\MinerTask.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\MinerTask\obj\Debug\MinerTask.pdb

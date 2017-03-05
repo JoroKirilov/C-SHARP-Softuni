@@ -1,0 +1,9 @@
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\Zvezdata\bin\Debug\Zvezdata.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\Zvezdata\bin\Debug\Zvezdata.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\Zvezdata\bin\Debug\Zvezdata.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\Zvezdata\obj\Debug\Zvezdata.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\Zvezdata\obj\Debug\Zvezdata.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\Zvezdata\obj\Debug\Zvezdata.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\Zvezdata\bin\Debug\Zvezdata.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\Zvezdata\obj\Debug\Zvezdata.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\Zvezdata\obj\Debug\Zvezdata.pdb

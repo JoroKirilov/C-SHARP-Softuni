@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\04MasterHerbalist\bin\Debug\04MasterHerbalist.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\04MasterHerbalist\bin\Debug\04MasterHerbalist.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\04MasterHerbalist\bin\Debug\04MasterHerbalist.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\04MasterHerbalist\obj\Debug\04MasterHerbalist.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\04MasterHerbalist\obj\Debug\04MasterHerbalist.exe
+c:\users\pc\documents\visual studio 2013\Projects\ProgrammingBasicExam17\04MasterHerbalist\obj\Debug\04MasterHerbalist.pdb

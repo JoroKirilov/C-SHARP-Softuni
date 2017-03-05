@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\PeriodicTable\bin\Debug\PeriodicTable.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\PeriodicTable\bin\Debug\PeriodicTable.pdb
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\PeriodicTable\obj\Debug\PeriodicTable.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\PeriodicTable\obj\Debug\PeriodicTable.pdb

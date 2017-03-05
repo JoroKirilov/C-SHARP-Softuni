@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Diamonds\bin\Debug\Diamonds.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Diamonds\bin\Debug\Diamonds.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Diamonds\bin\Debug\Diamonds.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Diamonds\obj\Debug\Diamonds.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\Diamonds\obj\Debug\Diamonds.pdb

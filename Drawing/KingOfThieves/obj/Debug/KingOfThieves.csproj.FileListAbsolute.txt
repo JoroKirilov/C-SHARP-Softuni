@@ -1,0 +1,8 @@
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\KingOfThieves\bin\Debug\KingOfThieves.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\KingOfThieves\bin\Debug\KingOfThieves.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\KingOfThieves\bin\Debug\KingOfThieves.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\KingOfThieves\obj\Debug\KingOfThieves.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Solution1\KingOfThieves\obj\Debug\KingOfThieves.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\KingOfThieves\bin\Debug\KingOfThieves.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\KingOfThieves\obj\Debug\KingOfThieves.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Drawing\KingOfThieves\obj\Debug\KingOfThieves.pdb

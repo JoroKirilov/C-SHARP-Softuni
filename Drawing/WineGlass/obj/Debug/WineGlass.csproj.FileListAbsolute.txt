@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\WineGlass\bin\Debug\WineGlass.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\WineGlass\bin\Debug\WineGlass.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\WineGlass\bin\Debug\WineGlass.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\WineGlass\obj\Debug\WineGlass.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\WineGlass\obj\Debug\WineGlass.exe
+C:\Users\PC\documents\visual studio 2013\Projects\Drawing\WineGlass\obj\Debug\WineGlass.pdb

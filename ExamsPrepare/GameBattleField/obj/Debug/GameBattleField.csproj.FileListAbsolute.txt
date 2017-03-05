@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\GameBattleField\bin\Debug\GameBattleField.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\GameBattleField\bin\Debug\GameBattleField.exe
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\GameBattleField\bin\Debug\GameBattleField.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\GameBattleField\obj\Debug\GameBattleField.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\GameBattleField\obj\Debug\GameBattleField.exe
+c:\users\pc\documents\visual studio 2013\Projects\Solution1\GameBattleField\obj\Debug\GameBattleField.pdb

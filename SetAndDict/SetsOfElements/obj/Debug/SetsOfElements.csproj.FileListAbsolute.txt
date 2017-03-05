@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetsOfElements\bin\Debug\SetsOfElements.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetsOfElements\bin\Debug\SetsOfElements.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetsOfElements\bin\Debug\SetsOfElements.pdb
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetsOfElements\obj\Debug\SetsOfElements.exe
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetsOfElements\obj\Debug\SetsOfElements.pdb
+c:\users\pc\documents\visual studio 2013\Projects\SetAndDict\SetsOfElements\obj\Debug\SetsOfElements.csprojResolveAssemblyReference.cache

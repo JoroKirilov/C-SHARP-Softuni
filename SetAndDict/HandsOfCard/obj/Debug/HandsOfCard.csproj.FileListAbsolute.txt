@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\HandsOfCard\bin\Debug\HandsOfCard.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\HandsOfCard\bin\Debug\HandsOfCard.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\HandsOfCard\bin\Debug\HandsOfCard.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\HandsOfCard\obj\Debug\HandsOfCard.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\HandsOfCard\obj\Debug\HandsOfCard.exe
+C:\Users\PC\documents\visual studio 2013\Projects\SetAndDict\HandsOfCard\obj\Debug\HandsOfCard.pdb
